@@ -1,0 +1,59 @@
+body{
+    background: #d3d3d326;
+    
+    }
+header{
+        background: #91a5fa;
+        text-align: center;
+        padding: 10px 20px;
+        border-radius: 5px;
+    }
+.title{
+        font-weight: bold;
+        color: white;
+    }
+.subtitle{
+        color: gray;
+        font-size: small;
+    }
+.card{
+        background: white;
+    }
+.figure{
+        min-height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+input{
+        width: 20%;
+        box-sizing: border-box;
+        padding: 5px;
+        text-align: center;
+        border-radius: 4px;
+    }
+.example-square{
+        border: 7px solid red;
+        height: 100px;
+        width: 100px;
+        margin-top: 40px;
+    }
+
+h3 {
+    text-align: center;
+}
+
+.Rumus-luas {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button {
+    width: 70px;
+    height: 50px;
+    background-color: gray;
+    border-radius: 3px;
+}
+.formula-description {
+    text-align: center;
+    font-style: oblique;
+}
